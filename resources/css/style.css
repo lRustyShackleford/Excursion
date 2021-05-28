@@ -1,0 +1,20 @@
+* {
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
+
+.title, .secondary-title, .picture-caption, #available-soon {
+    font-family: Verdana;
+}
+
+.title, .secondary-title, #available-soon{
+    color: white;
+}
+
+.title{
+    font-size: 50px;
+    font-weight: normal;
+}
